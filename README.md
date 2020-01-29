@@ -1,7 +1,7 @@
 ## This repo contains implementation of:
 
 * Linked list: it's like a chain. Each element knows which element is the next, but there's no knowledge about number of elements.
-  <p style="text-align: center;"><a href="https://www.youtube.com/watch?v=zxkpZrozDUk&feature=emb_logo">[Video]</a><a href="">[Code]</a></p>
+<p style="text-align: center;"><a href="https://www.youtube.com/watch?v=zxkpZrozDUk&feature=emb_logo">[Video]</a><a href="">[Code]</a></p>
   
 * Queue: first in - first out (the oldest element comes first). It's like a queue of people.  (head: enque. tail: deque.)
   youtube.com/watch?v=XAbzlilAHZw&feature=emb_logo
