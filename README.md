@@ -1,2 +1,3 @@
-# quickSort
+# This repo contains implementation of ...
+
 Impementation of QuickSort sorting algorithm in python.
