@@ -19,4 +19,5 @@
 * Graph Traversal: <a href="">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/graphTraversal.py">[Code]</a><br />
 
 ### Notes:
-The code is written as a part of homework for [Intro to Data Structures and Algorithms Course by Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513).
+* Personal Python Cheat Sheet: [[Code]](https://github.com/alexanch/python-cheat-sheet)
+* Implemented in Python for [Intro to Data Structures and Algorithms Course by Google](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513).
