@@ -1,6 +1,6 @@
 ## This repo contains implementation of:
 
-* Linked list: <p style="text-align: center;"><a href="https://www.youtube.com/watch?v=zxkpZrozDUk&feature=emb_logo">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/linked_list.py">[Code]</a></p>
+* Linked list: <a href="https://www.youtube.com/watch?v=zxkpZrozDUk&feature=emb_logo">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/linked_list.py">[Code]</a>
   It's like a chain. Each element knows which element is the next, but there's no knowledge about number of elements.
 * Queue: <p style="text-align: center;"><a href="youtube.com/watch?v=XAbzlilAHZw&feature=emb_logo">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/queue.py">[Code]</a></p>
   First in - first out (the oldest element comes first). It's like a queue of people.  (head: enque. tail: deque.)
