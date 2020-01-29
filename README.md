@@ -1,38 +1,17 @@
 ## This repo contains implementation of:
 
-* Linked list: it's like a chain. Each element knows which element is the next, but there's no knowledge about number of elements.
-<p style="text-align: center;"><a href="https://www.youtube.com/watch?v=zxkpZrozDUk&feature=emb_logo">[Video]</a><a href="">[Code]</a></p>
-  
-* Queue: first in - first out (the oldest element comes first). It's like a queue of people.  (head: enque. tail: deque.)
-  youtube.com/watch?v=XAbzlilAHZw&feature=emb_logo
+* Linked list: <p style="text-align: center;"><a href="https://www.youtube.com/watch?v=zxkpZrozDUk&feature=emb_logo">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/linked_list.py">[Code]</a></p>
+  It's like a chain. Each element knows which element is the next, but there's no knowledge about number of elements.
+* Queue: <p style="text-align: center;"><a href="youtube.com/watch?v=XAbzlilAHZw&feature=emb_logo">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/queue.py">[Code]</a></p>
+  First in - first out (the oldest element comes first). It's like a queue of people.  (head: enque. tail: deque.)
+* Stack: <p style="text-align: center;"><a href="https://www.youtube.com/watch?v=HpaVHzDeZC4">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/stack_through_linked_list.py">[Code]</a></p>
+  Last in - first out (last element you push to the stack is the first element to pop out).
+* Binary search: <p style="text-align: center;"><a href="https://www.youtube.com/watch?time_continue=1&v=0VN5iwEyq4c&feature=emb_logo">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/binary_search.py">[Code]</a></p>
+* Quick sort: <p style="text-align: center;"><a href="https://www.youtube.com/watch?v=kUon6854joI&feature=emb_logo">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/quickSort.py">[Code]</a></p>
 
-* Stack: last in - first out (last element you push to the stack is the first element to pop out).
-  https://www.youtube.com/watch?v=HpaVHzDeZC4
+Trees and Graphs:
 
-
-* Binary search:
-  https://www.youtube.com/watch?time_continue=1&v=0VN5iwEyq4c&feature=emb_logo
-
-
-* Binary Tree:
-  
-* Binary Search Tree:
-  
-* Graph:
-* Graph Traversal:
-
-* Quick sort: https://www.youtube.com/watch?v=kUon6854joI&feature=emb_logo
-
-
-stack_through_linked_list.py	Rename stack_through_linked_list to stack_through_linked_list.py	44 minutes ago
-
-
-
-
-Bubble sort:
-https://www.youtube.com/watch?v=h_osLG3GmjE&feature=emb_logo
-Merge sort:
-https://www.youtube.com/watch?v=K916wfSzKxE&feature=emb_logo
-
-Recursion:
-https://www.youtube.com/watch?v=_aI2Jch6Epk&feature=emb_logo
+* Binary Tree: <p style="text-align: center;"><a href="">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/binary_tree.py">[Code]</a></p>
+* Binary Search Tree: <p style="text-align: center;"><a href="">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/BST.py">[Code]</a></p>
+* Graph: <p style="text-align: center;"><a href="">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/graph.py">[Code]</a></p>
+* Graph Traversal: <p style="text-align: center;"><a href="">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/graphTraversal.py">[Code]</a></p>
