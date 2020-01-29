@@ -1,3 +1,5 @@
+## This repo includes the implementation of different data structures in Python.
+
 ### List-Based Collections:
 * Linked list: <a href="https://www.youtube.com/watch?v=zxkpZrozDUk&feature=emb_logo">[Video]</a><a href="https://github.com/alexanch/Data-Structures-implementation-in-Python/blob/master/linked_list.py">[Code]</a><br />
   It's like a chain. Each element knows which element is the next, but there's no knowledge about number of elements.
